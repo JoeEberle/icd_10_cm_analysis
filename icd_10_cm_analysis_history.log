@@ -1,0 +1,14 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-17 21:50:59,171 - INFO - START icd_10_cm_analysis =============================================
+2024-03-17 21:50:59,171 - INFO - START icd_10_cm_analysis Start Time = 2024-03-17 21:50:59
+2024-03-17 21:50:59,171 - INFO - icd_10_cm_analysis Step 0 - Initialize the configuration file parser
+2024-03-17 21:50:59,172 - INFO - Process icd_10_cm_analysis Step 0 - Initializing and starting Logging Process.
+2024-03-17 21:51:05,577 - INFO - PERFORMANCE icd_10_cm_analysis The total process duration was:6.41
+2024-03-17 21:51:05,577 - INFO - PERFORMANCE icd_10_cm_analysis Stop Time = 2024-03-17 21:51:05
+2024-03-17 21:51:05,587 - INFO - PERFORMANCE icd_10_cm_analysis Low process duration less than 3 minutes:6.41
+2024-03-17 21:51:05,587 - INFO - PERFORMANCE icd_10_cm_analysis Performance optimization is optional
+2024-03-17 21:51:05,587 - INFO - END icd_10_cm_analysis =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
