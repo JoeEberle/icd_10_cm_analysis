@@ -38,4 +38,4 @@ To get started with the **Icd 10 Cm Analysis** solution repository, follow these
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](icd_10_cm_analysis.png)  <br>
+    ## Deliverables or Figures![additional_image](icd_10_cm_analysis.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
