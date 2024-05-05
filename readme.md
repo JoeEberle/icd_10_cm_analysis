@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Icd 10 Cm Analysis - Analyze the Internation Classification of Disease ICD-10-CM 
 Analyze the Internation Classification of Disease ICD-10-CM 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Icd 10 Cm Analysis** - an example for your projects
 Analyze the Internation Classification of Disease ICD-10-CM 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
