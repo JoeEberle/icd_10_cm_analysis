@@ -39,11 +39,8 @@ To get started with the **Icd 10 Cm Analysis** solution repository, follow these
  ![additional_image](icd_10_cm_analysis.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
