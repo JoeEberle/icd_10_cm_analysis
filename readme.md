@@ -1,17 +1,8 @@
-
-![Image image_filename](solution_sign.png)
-
-# Icd 10 Cm Analysis - Analyze the Internation Classification of Disease ICD-10-CM 
-Analyze the Internation Classification of Disease ICD-10-CM 
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Icd 10 Cm Analysis - Analyze the Internation Classification of Disease ICD-10-CM ![Image image_filename](code.png)
 Welcome to the solution **Icd 10 Cm Analysis** - an example for your projects
 
 Analyze the Internation Classification of Disease ICD-10-CM 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Icd 10 Cm Analysis** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -26,6 +17,9 @@ To get started with the **Icd 10 Cm Analysis** solution repository, follow these
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -35,13 +29,11 @@ To get started with the **Icd 10 Cm Analysis** solution repository, follow these
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](icd_10_cm_analysis.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
