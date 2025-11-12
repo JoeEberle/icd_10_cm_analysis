@@ -4,21 +4,11 @@
 
 ## Analyze the Internation Classification of Disease ICD-10-CM 
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Icd 10 Cm Analysis** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Icd 10 Cm Analysis** 
 
 Analyze the Internation Classification of Disease ICD-10-CM 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
